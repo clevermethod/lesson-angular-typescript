@@ -2,7 +2,7 @@
 
 - watch https://www.youtube.com/watch?v=k5E2AVpwsko
 
-- install **LTS** version of node https://nodejs.org/en/download/
+- install (globally) **LTS** version of node https://nodejs.org/en/download/
 
 - `node --version` _(min version 6.9)_
 
