@@ -6,15 +6,17 @@
 
 - `node --version` _(min version 6.9)_
 
-- `npm install -g @angular/cli` _(-g install globally)_
+- `npm install -g @angular/cli` _(-g: installs globally)_
 
-- `ng --version`
+- `ng --version` _(make sure @angular/cli installed correctly)_
 
-- `ng new hello-world`
+- `cd project-folder` _(navigate to the folder that will hold your angular projects)_
 
-- `cd hello-world` (need to be within the project you've created)
+- `ng new hello-world` _(create a bootstrap version of an angular app at your current location called 'hello-world')_
 
-- `ng serve` _(starts a local session and a watch for changes)_
+- `cd hello-world` _(need to be within the project you've created)_
+
+- `ng serve` _(starts a local session, a watch for changes, and a continuous refresh)_
 
 - likely http://localhost:4200
 
